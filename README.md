@@ -1,5 +1,5 @@
 # TMDB Dataset Analyzation
-analyzing TMDB dataset to answer three quations:
+Analyzing TMDB dataset to answer three quations:
 1. Which genres are more common?
 2. Which genre (on average) cost more to produce?
 3. Which genre (on average) generates more revenue?
@@ -13,8 +13,7 @@ on the terminal to clone the project.
 on the terminal or other methods. 
 
 
-## Project Motivation:
-// TODO
-
 ## File Descriptions:
-// TODO
+1. `tmdb_movies.csv`: contains the raw dataset.
+2. `move_df.csv`: contains the cleaned dataset.
+3. `Data Science ND Project 1.ipynb`: contains the analysis of the dataset.
