@@ -2,7 +2,7 @@
 Analyzing TMDB dataset to answer three quations:
 1. Which genres are more common?
 2. Which genre (on average) cost more to produce?
-3. Which genre (on average) generates more revenue?
+3. Which genre (on average) generate more revenue?
 
 ## Installation:
 1. Download the ZIP file of the project or type: 
