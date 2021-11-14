@@ -17,3 +17,6 @@ on the terminal or other methods.
 1. `tmdb_movies.csv`: contains the raw dataset.
 2. `move_df.csv`: contains the cleaned dataset.
 3. `Data Science ND Project 1.ipynb`: contains the analysis of the dataset.
+
+## Blog post about the project:
+[Blog post](https://medium.com/@MarzoogTech/movies-genres-cost-revenue-899d49deed3d)
