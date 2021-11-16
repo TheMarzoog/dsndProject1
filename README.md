@@ -12,6 +12,14 @@ on the terminal to clone the project.
 `pip install <library-name>`
 on the terminal or other methods. 
 
+## Project Motivation:  
+In this project, I condacted an explatory data analysis of the TMDB dataset. 
+the dataset contains information about movies genres, popularty, budget, etc.
+there are three questions that I want to answer:
+1. Which genres are more common?
+2. Which genre (on average) cost more to produce?
+3. Which genre (on average) generate more revenue?
+
 
 ## File Descriptions:
 1. `tmdb_movies.csv`: contains the raw dataset.
